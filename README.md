@@ -1,6 +1,13 @@
 # BT Audio Guard
 
-Automatically pauses media playback when your Bluetooth audio device disconnects — so your music never blasts through your PC speakers in public.
+## Why?
+
+If you've ever had your **Bluetooth headphones disconnect in public** and your music
+kept blasting through your laptop speakers — this fixes that.
+
+BT Audio Guard runs in the background and **automatically pauses Spotify, browsers,
+VLC, and any other media player** the instant your Bluetooth audio device disconnects
+on Windows 10 or Windows 11. No more embarrassing moments in the library or office.
 
 ## The Problem
 
@@ -32,7 +39,7 @@ Grab the latest `BtAudioGuard.exe` from [Releases](../../releases) — single fi
 Requires [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0).
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/bt-audio-guard
+git clone https://github.com/iamvalson/bt-audio-guard
 cd bt-audio-guard
 dotnet publish -c Release -r win-x64 --self-contained -p:PublishSingleFile=true -p:EnableCompressionInSingleFile=true -o publish
 ```
