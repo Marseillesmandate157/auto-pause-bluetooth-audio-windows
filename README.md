@@ -9,10 +9,6 @@ BT Audio Guard runs in the background and **automatically pauses Spotify, browse
 VLC, and any other media player** the instant your Bluetooth audio device disconnects
 on Windows 10 or Windows 11. No more embarrassing moments in the library or office.
 
-## The Problem
-
-You're in the library. Bluetooth headphones disconnect. Spotify keeps playing. Everyone stares.
-
 ## How It Works
 
 BT Audio Guard runs silently in your system tray and listens for audio device disconnect events. The moment your Bluetooth device drops, it sends a media pause command before Windows reroutes audio to your speakers.
