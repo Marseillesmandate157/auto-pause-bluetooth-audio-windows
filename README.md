@@ -35,7 +35,7 @@ Grab the latest `BtAudioGuard.exe` from [Releases](../../releases) — single fi
 Requires [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0).
 
 ```powershell
-git clone [https://github.com/iamvalson/bt-audio-guard](https://github.com/iamvalson/auto-pause-bluetooth-audio-windows)
+git clone https://github.com/iamvalson/auto-pause-bluetooth-audio-windows
 cd auto-pause-bluetooth-audio-windows
 dotnet publish -c Release -r win-x64 --self-contained -p:PublishSingleFile=true -p:EnableCompressionInSingleFile=true -o publish
 ```
