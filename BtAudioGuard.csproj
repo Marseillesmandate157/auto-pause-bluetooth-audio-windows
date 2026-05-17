@@ -19,6 +19,7 @@
     <AssemblyTitle>BT Audio Guard</AssemblyTitle>
     <Description>Auto-pauses media playback when a Bluetooth audio device disconnects</Description>
     <Copyright>2026</Copyright>
+    <Company>earthtovalentine</Company>
   </PropertyGroup>
 
   <ItemGroup>
